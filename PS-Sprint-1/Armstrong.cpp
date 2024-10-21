@@ -15,7 +15,7 @@ void armstrong(int num) {
     orgnum /= 10;
   }
   if (res == num) {
-    cout << num << " is Armstrong Number";
+    cout << num << " is an Armstrong Number";
   } else {
     cout << num << " != " << rem << " So it's not an Armstrong Number";
   }
