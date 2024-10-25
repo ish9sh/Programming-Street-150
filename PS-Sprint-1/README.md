@@ -56,7 +56,7 @@
    **Difficulty**: Easy  
    **Topics**: Basic Programming, Patterns  
    **Description**: Write a program to create different star patterns (e.g., pyramid, diamond).  
-   **Example**:  
+   **Example**:   
    Input: `patternType = "pyramid", height = 5`  
    Output:  
    ```
@@ -86,7 +86,7 @@
    Output: `10`  
    Explanation: The sum of the digits 1 + 2 + 3 + 4 = 10.  
 
-10. **Finding the Greatest Common Divisor (GCD)**  
+10. **Finding the Greatest Common Divisor (GCD)** 
     **Difficulty**: Easy  
     **Topics**: Basic Programming, Number Theory  
     **Description**: Write a program to find the GCD of two numbers.  
